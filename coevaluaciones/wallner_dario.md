@@ -57,7 +57,7 @@ En ambos ficheros md también faltan imágenes que aclaren las explicaciones. Fa
 
 | Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
 |---|---|---|---|
-| P1 | [Aceptada / Aclaración / Alternativa acordada, con explicación] | [Qué he cambiado en cms.md y dónde] | [Enlace] |
-| P2 | [Aceptada / Aclaración / Alternativa acordada, con explicación] | [Qué he cambiado en ssg.md y dónde] | [Enlace] |
+| P1 | [Aceptada. He corregido el ejemplo de LMS, sustituyendo Canva por Canvas, y he añadido un top 5 de CMS con estadísticas de uso, fuentes y fecha de consulta para completar la investigación.] | [He corregido el ejemplo de LMS, sustituyendo Canva por Canvas en el apartado «Tipos de CMS», y he añadido un top 5 de CMS con estadísticas de uso, indicando las fuentes y la fecha de consulta.] | [https://github.com/Portillopp/Repo_correcion_Portillo/pull/1/changes/480b46a181f512c7f50b4e7c3e07611e79f70e1e] |
+| P2 | [Aceptada. He añadido una comparación entre los generadores de sitios estáticos y la creación manual de páginas HTML, y he revisado la tabla comparativa de Jekyll, Hugo y Astro para mejorar la precisión de las explicaciones sobre su funcionamiento y publicación en GitHub Pages.] | [He añadido una comparación entre los generadores de sitios estáticos y la creación manual de páginas HTML en el apartado «¿Qué es un SSG?». También he revisado la tabla «Comparación entre Jekyll, Hugo y Astro» para mejorar la precisión de las explicaciones sobre su funcionamiento y publicación en GitHub Pages.] | [https://github.com/Portillopp/Repo_correcion_Portillo/pull/1/changes/aa32ef0521ab0dba85fbfd8f6a5218856e5c5198] |
 
 **Qué he aprendido al corregir mi trabajo:** [Explicación breve]

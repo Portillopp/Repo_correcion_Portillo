@@ -53,7 +53,7 @@ En ambos ficheros md también faltan imágenes que aclaren las explicaciones. Fa
 
 ## D. Respuesta y correcciones del propietario del proyecto
 
-**Cumplimenta:** [Nombre del propietario del repositorio]
+**Cumplimenta:** [David Portillo Polo]
 
 | Propuesta | Respuesta y decisión razonada | Corrección aplicada y archivo | Commit |
 |---|---|---|---|
